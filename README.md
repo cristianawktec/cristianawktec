@@ -29,7 +29,7 @@
 
 <td width="40%">
 
-<img src="matrix_laptop_transparent.png" width="85%" style="margin-top:20px;">
+<img src="matrix_laptop.png" width="85%" style="margin-top:20px;">
 
 </td>
 </tr>

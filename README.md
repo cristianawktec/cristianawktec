@@ -1,3 +1,7 @@
+<p align="center">
+<img src="matrix-laptop.png"/>
+</p>
+
 <h1 align="center">Olá 👋 Eu sou Cristian Marques</h1>
 
 <p align="center">
@@ -8,10 +12,6 @@
 <a href="https://www.consultoriawk.com">
 <img src="https://img.shields.io/badge/Website-consultoriawk.com-blue">
 </a>
-</p>
-
-<p align="center">
-<img src="matrix-laptop.png" width="700"/>
 </p>
 
 ---

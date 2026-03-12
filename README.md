@@ -1,20 +1,20 @@
-<p align="center">
-  <img src="matrix-laptop.png" width="100%" alt="Matrix Coding Banner"/>
-</p>
+<table>
+<tr>
+<td width="60%">
 
-<h1 align="center">Olá 👋 Eu sou Cristian Marques</h1>
+<h1>Olá 👋 Eu sou Cristian Marques</h1>
 
-<p align="center">
-💻 Software Developer • ⚖️ Judicial IT Expert • 🤖 Artificial Intelligence
-</p>
+💻 Software Developer  
+⚖️ Judicial IT Expert  
+🤖 Artificial Intelligence  
 
-<p align="center">
+<br>
+
 <a href="https://www.consultoriawk.com">
 <img src="https://img.shields.io/badge/🌐%20Website-consultoriawk.com-0A66C2?style=for-the-badge">
 </a>
-</p>
 
----
+<br><br>
 
 ## 🚀 Sobre mim
 
@@ -24,6 +24,16 @@
 - 🏛️ Experiência em projetos para **setor público**
 - 🔧 Especialista em **modernização de sistemas legados**
 - ☁️ Experiência com **Cloud, Docker e APIs**
+
+</td>
+
+<td width="40%">
+
+<img src="matrix-laptop.png"/>
+
+</td>
+</tr>
+</table>
 
 ---
 

@@ -66,6 +66,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=cristianawktec&theme=onedark)
 
 ---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cristianawktec)
 
 ## 🌎 Contato
 

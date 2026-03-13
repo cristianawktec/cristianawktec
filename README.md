@@ -28,12 +28,8 @@
 
 </td>
 
-<td width="35%" align="center">
-
-<br>
-
-<img src="matrix-laptop-trans.png" width="350">
-
+<td align="center">
+  <img src="matrix-laptop-trans.png" width="420">
 </td>
 
 </tr>

@@ -1,7 +1,4 @@
-<table>
-<tr>
-
-<td width="65%">
+<img src="matrix-laptop-trans.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1>Olá 👋 Eu sou Cristian Marques</h1>
 
@@ -26,15 +23,7 @@
 - 🔧 Especialista em **modernização de sistemas legados**
 - ☁️ Experiência com **Cloud, Docker e APIs**
 
-</td>
-
-<td align="center">
-  <img src="matrix-laptop-trans.png" min-width="400px" max-width="400px" width="400px" align="right">
-</td>
-
-
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 

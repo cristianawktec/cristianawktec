@@ -15,7 +15,18 @@
 <img src="https://img.shields.io/badge/🌐%20Website-consultoriawk.com-0A66C2?style=for-the-badge">
 </a>
 
-<br><br>
+</td>
+
+<td width="45%" align="center">
+
+<img src="matrix-laptop-transparente.png" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🚀 Sobre mim
 

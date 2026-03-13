@@ -19,7 +19,7 @@
 
 <td width="45%" align="center">
 
-<img src="matrix-laptop.png" width="100%">
+<img src="matrix-laptop-transparente.png" width="100%">
 
 </td>
 

@@ -32,7 +32,7 @@
 
 <br>
 
-<img src="matrix-laptop-trans.png" width="250">
+<img src="matrix-laptop-trans.png" width="350">
 
 </td>
 

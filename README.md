@@ -1,5 +1,6 @@
 <table>
 <tr>
+
 <td width="65%">
 
 <h1>Olá 👋 Eu sou Cristian Marques</h1>
@@ -29,9 +30,12 @@
 
 <td width="35%" align="center">
 
-<img src="matrix-laptop-trans.png" width="100%">
+<br>
+
+<img src="matrix-laptop-trans.png" width="250">
 
 </td>
+
 </tr>
 </table>
 

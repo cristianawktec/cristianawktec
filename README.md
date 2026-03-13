@@ -30,7 +30,7 @@
 
 <td width="40%" align="right">
 
-<img src="matrix-laptop-trans.png" width="520">
+<img src="matrix-laptop-trans.png" width="100%">
 
 </td>
 

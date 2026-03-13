@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="60%" align="left">
+<td width="55%" align="left">
 
 <h1>Olá 👋 Eu sou Cristian Marques</h1>
 
@@ -15,7 +15,18 @@
 <img src="https://img.shields.io/badge/🌐%20Website-consultoriawk.com-0A66C2?style=for-the-badge">
 </a>
 
-<br><br>
+</td>
+
+<td width="45%" align="center">
+
+<img src="matrix-laptop-transparente.png" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🚀 Sobre mim
 
@@ -25,17 +36,6 @@
 - 🏛️ Experiência em projetos para **setor público**
 - 🔧 Especialista em **modernização de sistemas legados**
 - ☁️ Experiência com **Cloud, Docker e APIs**
-
-</td>
-
-<td width="40%" align="right">
-
-<img src="matrix-laptop3.png" width="150%">
-
-</td>
-
-</tr>
-</table>
 
 ---
 

@@ -17,6 +17,15 @@
 
 <br><br>
 
+<img src="matrix-laptop-transparente.png" width="100%">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="60%" align="left">
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor de software com **20+ anos de experiência**
@@ -30,11 +39,6 @@
 
 <td width="40%" align="right">
 
-<img src="matrix-laptop-transparente.png" width="150%">
-
-</td>
-
-</tr>
 </table>
 
 ---

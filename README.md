@@ -29,8 +29,9 @@
 </td>
 
 <td align="center">
-  <img src="matrix-laptop-trans.png" width="820">
+  <img src="matrix-laptop-trans.png" min-width="400px" max-width="400px" width="400px" align="right">
 </td>
+
 
 </tr>
 </table>

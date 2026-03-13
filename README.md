@@ -1,4 +1,7 @@
-<img src="matrix-laptop-trans.png" min-width="400px" max-width="400px" width="400px" align="right">
+<table>
+<tr>
+
+<td width="60%" align="left">
 
 <h1>Olá 👋 Eu sou Cristian Marques</h1>
 
@@ -23,7 +26,16 @@
 - 🔧 Especialista em **modernização de sistemas legados**
 - ☁️ Experiência com **Cloud, Docker e APIs**
 
-<br clear="right"/>
+</td>
+
+<td width="40%" align="right">
+
+<img src="matrix-laptop-trans.png" width="520">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -31,7 +43,7 @@
 
 ## Backend
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -46,7 +58,7 @@
 
 ## Frontend
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -59,7 +71,7 @@
 
 ## DevOps / Infra
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -71,7 +83,7 @@
 
 ## Databases
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>

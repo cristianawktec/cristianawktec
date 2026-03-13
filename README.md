@@ -29,7 +29,7 @@
 </td>
 
 <td align="center">
-  <img src="matrix-laptop-trans.png" width="420">
+  <img src="matrix-laptop-trans.png" width="820">
 </td>
 
 </tr>

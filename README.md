@@ -39,11 +39,7 @@
 
 </td>
 
-<td width="45%" align="center">
 
-<img src="matrix-laptop-transparente.png" width="100%">
-
-</td>
 
 </tr>
 </table>
